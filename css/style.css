@@ -51,17 +51,17 @@ h1{
 	border:1px solid #bcb1b1;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	padding: 10px;
-	background-color: #cccccc;
+	background-color: white;
 	margin-bottom: 10px;
 }
 
 .right-pane{
 	border:1px solid #bcb1b1;
-    box-shadow: 5px 10px 18px 5px #888888;
+    box-shadow: 20px 20px 18px 5px #888888;
 	padding: 10px;
 	margin-bottom: 15px;
 	width: 100%;
-	background-color: #cccccc;
+	background-color: white;
 }
 .left-pane h1 {
 	color: green;
@@ -87,4 +87,7 @@ body {
 .font-div1{
  position: relative;
  
+}
+.jumbotron{
+	margin: 0px;
 }
